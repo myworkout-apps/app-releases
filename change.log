@@ -1,7 +1,7 @@
 {
-  "version_code": 173,
-  "version_name": "2.1.55",
+  "version_code": 174,
+  "version_name": "2.1.56",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Muscle-Up Analytics & Tool Suite (MU-01 -> MU-08):\n  - MU-05: Muscle-Up Readiness Score predittivo (0-100%) con gauge circolare e 3 pilastri calisthenics (trazione, spinta, transizione)\n  - MU-06: Hall of Fame & Bacheca PR per sbarra, anelli, zavorre e tenute negative\n  - MU-02: Bilanciamento Biomeccanico delle 3 Fasi con barra progressiva multicompilata e indicatore focus consigliato\n  - MU-03: Volume & Frequenza Settimanale aggregata (Sbarra vs Anelli)\n  - MU-01 & MU-04: Curva di Assistenza/Sovraccarico & Indice Adattamento Neurale RPE vs Volume\n  - MU-07: Routine Preimpostate a 1 Tocco ('Potenza Base', 'Focus Transizione', 'Full Muscle-Up') nel dialog di sessione\n  - MU-08: Rest Timer Esplosività (2-3 min) con avviso vocale TTS e Mental Cues Live per ogni step\n• Minimizzazione Proguard/R8 mantenuta disattivata",
+  "release_notes": "• Outdoor Suite Pro Completa (OUT-01 -> OUT-06):\n  - OUT-01: Tabella interattiva degli Split Chilometrici con tempi intermedi, passo specifico e dislivello per km\n  - OUT-02: Distribuzione avanzata delle 5 Zone Cardiache con calcolo FC Max e soglie percentuali\n  - OUT-03: Profilo Altimetrico continuo (D+ / D-), altitudine min/max e calcolo pendenza media\n  - OUT-04: Analisi Efficienza Biomeccanica della Corsa con stima cadenza (SPM) e ampiezza della falcata (metri)\n  - OUT-05: Rilevamento Impatto Meteo & Condizioni con indicazioni prestazionali\n  - OUT-06: Segmentazione percorsi e circuiti preferiti con confronto dei tempi personali (Best Lap)\n  - Integrazione completa sia nel dettaglio sessione che nella schermata live GPS e nella dashboard statistiche\n• Minimizzazione Proguard/R8 mantenuta disattivata",
   "is_mandatory": false
 }
