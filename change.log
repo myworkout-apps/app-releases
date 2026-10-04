@@ -1,7 +1,7 @@
 {
-  "version_code": 150,
-  "version_name": "2.1.32",
+  "version_code": 151,
+  "version_name": "2.1.33",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Rinominato pacchetto di aggiornamento in my-workout.apk\n• Verifica del nuovo canale di distribuzione e download\n• Miglioramenti di stabilità e performance",
+  "release_notes": "• Certificato di Firma Release ufficiale integrato\n• Aggiornamenti fluidi e continui senza avvisi di sicurezza\n• Nome pacchetto unificato my-workout.apk",
   "is_mandatory": false
 }
