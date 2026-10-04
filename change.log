@@ -1,7 +1,7 @@
 {
-  "version_code": 175,
-  "version_name": "2.1.57",
+  "version_code": 176,
+  "version_name": "2.1.58",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Gym & Strength Suite Completa (GYM-01 -> GYM-06):\n  - GYM-01: Curva Storica del Carico Stimato (1RM Dinamico) con andamento temporale per ogni esercizio\n  - GYM-02: Ripartizione del Volume (serie e tonnellaggio) per Gruppo Muscolare con raccomandazioni\n  - GYM-03: Indice di Sovraccarico Progressivo Live vs Settimana Scorsa (+kg e +volume rilevati)\n  - GYM-04: Tracker Time Under Tension (TUT stimato) e indice di efficienza RPE per serie\n  - GYM-05: Bacheca PR & Trophy Room dei Fondamentali (Panca, Squat, Stacco, Military, Trazioni) con badge e date\n  - GYM-06: Bilanciamento Biomeccanico Push vs Pull (Spinta vs Trazione) con consigli posturali\n• Minimizzazione Proguard/R8 mantenuta disattivata",
+  "release_notes": "• Rimozione completa dei codici identificativi (OUT-0X, MU-0X, GYM-0X) da tutti i titoli, dialoghi e card dell'app\n• Fix layout e ottimizzazione del wrapping dei testi per evitare compressione e a capo verticali su badge, pillole e legende\n• Ottimizzazione grafica per 'Profilo Altimetrico', 'Efficienza Biomeccanica', 'Bilanciamento Fasi', 'Volume Settimanale' e 'Push vs Pull'\n• Nessuna minimizzazione (R8 disattivato) e stabilità OTA preservata",
   "is_mandatory": false
 }
