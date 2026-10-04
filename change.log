@@ -1,7 +1,7 @@
 {
-  "version_code": 158,
-  "version_name": "2.1.40",
+  "version_code": 159,
+  "version_name": "2.1.41",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova sezione 'Muscle-Up Journey' (Calisthenics & Gym Skills)\n• Separazione netta tra 'Roadmap & Step' e 'Storico & Statistiche'\n• Progressioni complete per Sbarra e Anelli con traiettoria a C, criteri di sblocco e warning tecnici\n• Log dedicato delle sessioni di skill (serie, ripetizioni, RPE, note)\n• Statistiche dedicate (sessioni totali, best serie ininterrotta)\n• Card dedicata in Home attivabile/disattivabile da Configurazione > Aspetto\n• Backup & Ripristino integrati",
+  "release_notes": "• Risolto bug toggle Mostra/Nascondi Card Muscle-Up in Configurazione > Aspetto\n• Rinominata sezione ed etichette da 'Muscle-Up Journey' a 'Muscle-Up'\n• Ottimizzazioni stabilità e sincronizzazione preferenze",
   "is_mandatory": false
 }
