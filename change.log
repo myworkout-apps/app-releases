@@ -1,7 +1,7 @@
 {
-  "version_code": 171,
-  "version_name": "2.1.53",
+  "version_code": 172,
+  "version_name": "2.1.54",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Risolto bug di scollegamento della cartella di backup su Google Drive: gestione resiliente dei permessi persistiti SAF e rimozione del controllo bloccante canWrite()\n• Ottimizzato il layout dei KPI nella schermata di dettaglio sessione Muscle-Up con griglia pulita ed equilibrata",
+  "release_notes": "• Risolto salvataggio/ripristino dati di backup: ora include tutti i campi delle sessioni Muscle-Up (struttura dettagliata serie, esercizi aggregati, volume cumulato e tempi)\n• Infografica di condivisione Muscle-Up potenziata: visualizzazione completa di tutte le serie senza tagli, 4 KPI analitici dedicati (Reps Totali, Serie Totali, Max Unbroken, RPE Sforzo) e note complete\n• Disattivata minimizzazione del codice (isMinifyEnabled = false)",
   "is_mandatory": false
 }
