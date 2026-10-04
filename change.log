@@ -1,7 +1,7 @@
 {
-  "version_code": 156,
-  "version_name": "2.1.38",
+  "version_code": 157,
+  "version_name": "2.1.39",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovo pannello 'Invia Feedback & Supporto' in Configurazione\n• Invio diretto via email con scelta categoria (Nuova Funzione, Bug, Feedback)\n• Dettagli diagnostici del dispositivo inclusi automaticamente per assistenza rapida",
+  "release_notes": "• Nuovo pannello 'Invia Feedback & Supporto' in Configurazione\n• Invio diretto via email con scelta categoria (Nuova Funzione, Bug, Feedback)\n• Dettagli diagnostici del dispositivo inclusi automaticamente per assistenza rapida\n• Aggiornamento OTA automatico e manuale attivo",
   "is_mandatory": false
 }
