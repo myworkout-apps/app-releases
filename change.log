@@ -1,7 +1,7 @@
 {
-  "version_code": 153,
-  "version_name": "2.1.35",
+  "version_code": 154,
+  "version_name": "2.1.36",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Risolta la sovrapposizione del testo: titolo e nome dell'esercizio ordinati e a capo pulito\n• Nuovo selettore a tendina con ricerca per gli esercizi del Sovraccarico Progressivo (rimosso lo scrolling orizzontale)\n• Nuova Tab in alto dedicata 'Sovraccarico' con Widget Obiettivo da Battere (Ultima Sessione vs Target Overload scientifico)",
+  "release_notes": "• Scheda Sovraccarico: rimosso il grafico su richiesta per una visualizzazione pulita e focalizzata sui numeri\n• Focus totale sul Widget Target di Sovraccarico (Ultima Sessione vs Obiettivo Overload)\n• Selettore rapido dell'esercizio con ricerca",
   "is_mandatory": false
 }
