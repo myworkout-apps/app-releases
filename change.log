@@ -1,7 +1,7 @@
 {
-  "version_code": 174,
-  "version_name": "2.1.56",
+  "version_code": 175,
+  "version_name": "2.1.57",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Outdoor Suite Pro Completa (OUT-01 -> OUT-06):\n  - OUT-01: Tabella interattiva degli Split Chilometrici con tempi intermedi, passo specifico e dislivello per km\n  - OUT-02: Distribuzione avanzata delle 5 Zone Cardiache con calcolo FC Max e soglie percentuali\n  - OUT-03: Profilo Altimetrico continuo (D+ / D-), altitudine min/max e calcolo pendenza media\n  - OUT-04: Analisi Efficienza Biomeccanica della Corsa con stima cadenza (SPM) e ampiezza della falcata (metri)\n  - OUT-05: Rilevamento Impatto Meteo & Condizioni con indicazioni prestazionali\n  - OUT-06: Segmentazione percorsi e circuiti preferiti con confronto dei tempi personali (Best Lap)\n  - Integrazione completa sia nel dettaglio sessione che nella schermata live GPS e nella dashboard statistiche\n• Minimizzazione Proguard/R8 mantenuta disattivata",
+  "release_notes": "• Gym & Strength Suite Completa (GYM-01 -> GYM-06):\n  - GYM-01: Curva Storica del Carico Stimato (1RM Dinamico) con andamento temporale per ogni esercizio\n  - GYM-02: Ripartizione del Volume (serie e tonnellaggio) per Gruppo Muscolare con raccomandazioni\n  - GYM-03: Indice di Sovraccarico Progressivo Live vs Settimana Scorsa (+kg e +volume rilevati)\n  - GYM-04: Tracker Time Under Tension (TUT stimato) e indice di efficienza RPE per serie\n  - GYM-05: Bacheca PR & Trophy Room dei Fondamentali (Panca, Squat, Stacco, Military, Trazioni) con badge e date\n  - GYM-06: Bilanciamento Biomeccanico Push vs Pull (Spinta vs Trazione) con consigli posturali\n• Minimizzazione Proguard/R8 mantenuta disattivata",
   "is_mandatory": false
 }
