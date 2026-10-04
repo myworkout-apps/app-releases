@@ -1,7 +1,7 @@
 {
-  "version_code": 165,
-  "version_name": "2.1.47",
+  "version_code": 166,
+  "version_name": "2.1.48",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Pannello Statistiche completamente separato accessibile dalla barra di navigazione inferiore\n• Macro-selettore a schede Gym / Muscle-Up / Outdoor per filtrare istantaneamente le metriche pertinenti\n• Sezione Profilo ripristinata con 4 tab puliti (Profilo, Coach AI, Storico, Config)\n• Tab Storico Muscle-Up dedicato esclusivamente al registro cronologico delle sessioni",
+  "release_notes": "• Struttura allenamento Muscle-Up potenziata con tracciamento dettagliato per serie (reps, assistenza elastico/zavorra/libero, RPE, note tecniche)\n• Nuova infografica condivisibile per il Muscle-Up ad alta risoluzione con illustrazione biomeccanica 3D dello step, riepilogo serie e record unbroken\n• Statistiche avanzate Muscle-Up arricchite con calcolo del volume totale delle ripetizioni e frequenza sessioni",
   "is_mandatory": false
 }
