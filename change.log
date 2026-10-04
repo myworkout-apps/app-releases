@@ -1,7 +1,7 @@
 {
-  "version_code": 157,
-  "version_name": "2.1.39",
+  "version_code": 158,
+  "version_name": "2.1.40",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovo pannello 'Invia Feedback & Supporto' in Configurazione\n• Invio diretto via email con scelta categoria (Nuova Funzione, Bug, Feedback)\n• Dettagli diagnostici del dispositivo inclusi automaticamente per assistenza rapida\n• Aggiornamento OTA automatico e manuale attivo",
+  "release_notes": "• Nuova sezione 'Muscle-Up Journey' (Calisthenics & Gym Skills)\n• Separazione netta tra 'Roadmap & Step' e 'Storico & Statistiche'\n• Progressioni complete per Sbarra e Anelli con traiettoria a C, criteri di sblocco e warning tecnici\n• Log dedicato delle sessioni di skill (serie, ripetizioni, RPE, note)\n• Statistiche dedicate (sessioni totali, best serie ininterrotta)\n• Card dedicata in Home attivabile/disattivabile da Configurazione > Aspetto\n• Backup & Ripristino integrati",
   "is_mandatory": false
 }
