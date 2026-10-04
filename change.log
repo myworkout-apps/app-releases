@@ -1,7 +1,7 @@
 {
-  "version_code": 155,
-  "version_name": "2.1.37",
+  "version_code": 156,
+  "version_name": "2.1.38",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Aggiunto pulsante 'Cerca Aggiornamenti' in Configurazione per verificare manualmente le nuove versioni in qualsiasi momento\n• Scheda Sovraccarico: widget numerico pulito (Ultima Sessione vs Target Overload)\n• Selettore rapido a tendina con ricerca per gli esercizi",
+  "release_notes": "• Nuovo pannello 'Invia Feedback & Supporto' in Configurazione\n• Invio diretto via email con scelta categoria (Nuova Funzione, Bug, Feedback)\n• Dettagli diagnostici del dispositivo inclusi automaticamente per assistenza rapida",
   "is_mandatory": false
 }
