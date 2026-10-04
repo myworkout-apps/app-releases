@@ -1,7 +1,7 @@
 {
-  "version_code": 159,
-  "version_name": "2.1.41",
+  "version_code": 160,
+  "version_name": "2.1.42",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Risolto bug toggle Mostra/Nascondi Card Muscle-Up in Configurazione > Aspetto\n• Rinominata sezione ed etichette da 'Muscle-Up Journey' a 'Muscle-Up'\n• Ottimizzazioni stabilità e sincronizzazione preferenze",
+  "release_notes": "• Statistiche generali multi-tab con tab dedicata per 'Muscle-Up'\n• Sincronizzazione dinamica delle tab in Statistiche in base alle impostazioni di visibilità attive (Gym, Outdoor, Muscle-Up)\n• Switch apparato Sbarra/Anelli e benchmark con storico sessioni integrato nelle statistiche",
   "is_mandatory": false
 }
