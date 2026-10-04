@@ -1,7 +1,7 @@
 {
-  "version_code": 160,
-  "version_name": "2.1.42",
+  "version_code": 161,
+  "version_name": "2.1.43",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Statistiche generali multi-tab con tab dedicata per 'Muscle-Up'\n• Sincronizzazione dinamica delle tab in Statistiche in base alle impostazioni di visibilità attive (Gym, Outdoor, Muscle-Up)\n• Switch apparato Sbarra/Anelli e benchmark con storico sessioni integrato nelle statistiche",
+  "release_notes": "• Storico allenamenti multi-tab arricchito con tab dedicata 'Muscle-Up'\n• Filtro cronologico e badge contatore sessioni dedicate per Muscle-Up\n• Visualizzazione completa log serie, ripetizioni, RPE, note ed eliminazione diretta da Storico\n• Riconciliazione dinamica dei filtri storico in base alle impostazioni di visibilità",
   "is_mandatory": false
 }
