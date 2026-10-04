@@ -1,7 +1,7 @@
 {
-  "version_code": 149,
-  "version_name": "2.1.31",
-  "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/app-debug.apk",
-  "release_notes": "• Modulo di Verifica e Aggiornamento Remoto da GitHub all'avvio dell'app\n• Gestione permanente della chiave personale Gemini AI (BYOK)\n• Modulo di Backup personale cloud su Google Drive tramite Storage Access Framework (SAF)\n• Esclusione sezioni nascoste da calcoli totali e progressi",
+  "version_code": 150,
+  "version_name": "2.1.32",
+  "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
+  "release_notes": "• Rinominato pacchetto di aggiornamento in my-workout.apk\n• Verifica del nuovo canale di distribuzione e download\n• Miglioramenti di stabilità e performance",
   "is_mandatory": false
 }
