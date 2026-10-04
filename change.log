@@ -1,7 +1,7 @@
 {
-  "version_code": 163,
-  "version_name": "2.1.45",
+  "version_code": 164,
+  "version_name": "2.1.46",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuove illustrazioni 3D biomeccaniche dedicate a tutti gli step di Muscle-Up (Sbarra & Anelli)\n• Stile grafico coerente con frecce cinetiche al neon ciano\n• Miniatura visiva nelle schede step e anteprima dettagliata con zoom a schermo intero al tocco\n• Integrazione nel catalogo asset dell'applicazione",
+  "release_notes": "• Statistiche dedicate Outdoor potenziate in tab 'Cardio & Outdoor'\n• Nuovo filtro rapido per tipologia di attività: Tutte, Corsa e Camminata\n• Ricalcolo dinamico di km totali, tempo in movimento, dislivello D+, passo medio e zone cardio FC\n• Bacheca Record Personali Outdoor (distanza max, miglior pace, max dislivello, max calorie)",
   "is_mandatory": false
 }
