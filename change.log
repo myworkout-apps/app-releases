@@ -1,7 +1,7 @@
 {
-  "version_code": 154,
-  "version_name": "2.1.36",
+  "version_code": 155,
+  "version_name": "2.1.37",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Scheda Sovraccarico: rimosso il grafico su richiesta per una visualizzazione pulita e focalizzata sui numeri\n• Focus totale sul Widget Target di Sovraccarico (Ultima Sessione vs Obiettivo Overload)\n• Selettore rapido dell'esercizio con ricerca",
+  "release_notes": "• Aggiunto pulsante 'Cerca Aggiornamenti' in Configurazione per verificare manualmente le nuove versioni in qualsiasi momento\n• Scheda Sovraccarico: widget numerico pulito (Ultima Sessione vs Target Overload)\n• Selettore rapido a tendina con ricerca per gli esercizi",
   "is_mandatory": false
 }
