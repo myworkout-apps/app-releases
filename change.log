@@ -1,7 +1,7 @@
 {
-  "version_code": 167,
-  "version_name": "2.1.49",
+  "version_code": 168,
+  "version_name": "2.1.50",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Sessione di allenamento Muscle-Up aggregata: ora puoi registrare un workout completo composto da molteplici esercizi propedeutici con serie, assistenza, zavorra, RPE e note per ogni movimento\n• Pulsante 'Registra Allenamento' dedicato nella scheda Muscle-Up con selezione dinamica degli esercizi della roadmap\n• Risolto bug di condivisione immagine/infografica (corretto percorso FileProvider e permessi di sistema)\n• Infografica esportabile multi-esercizio con render 3D per ciascun movimento eseguito e statistiche di volume aggregate",
+  "release_notes": "• Risolto errore di integrità database Room con migrazione v20 (schema allineato per sessioni aggregate Muscle-Up)\n• Sessione di allenamento Muscle-Up aggregata: registrazione workout completi con molteplici esercizi propedeutici\n• Infografica esportabile multi-esercizio con anteprime 3D e fix permessi condivisione",
   "is_mandatory": false
 }
