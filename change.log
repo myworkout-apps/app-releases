@@ -1,7 +1,7 @@
 {
-  "version_code": 169,
-  "version_name": "2.1.51",
+  "version_code": 170,
+  "version_name": "2.1.52",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Dettaglio sessione Muscle-Up interattivo: tocca qualsiasi scheda dello storico per aprire la visualizzazione analitica completa (KPI volume, serie totali, max reps, dettaglio di ciascun esercizio con serie e zavorra/assistenza)\n• Condivisione infografica e opzione di eliminazione direttamente dal dettaglio dell'allenamento",
+  "release_notes": "• Risolto problema di layout compresso nei KPI di dettaglio allenamento Muscle-Up: ora disposti in una griglia ordinata a schede bilanciate (Reps Totali, Serie Totali, Max Unbroken, RPE)\n• Dettaglio analitico completo per tutte le sessioni svolte",
   "is_mandatory": false
 }
