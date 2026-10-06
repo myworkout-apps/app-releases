@@ -1,7 +1,7 @@
 {
-  "version_code": 180,
-  "version_name": "2.1.62",
+  "version_code": 181,
+  "version_name": "2.1.63",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Ripristinato Coach AI nella Tab 1 del Profilo e raggiungibile dal tasto della BottomBar\n• Aggiunta icona rapida 'Alimentazione & Salute' (posate verdi) nella TopAppBar della schermata principale per accesso istantaneo al diario cibo e calorie\n• Fusa la parte corporea/metabolica con il diario alimentare nella nuova sezione integrata 'Alimentazione & Salute'\n• Sostituito lo scrolling orizzontale delle sottosezioni Statistiche con un elegante menu a tendina selettore",
+  "release_notes": "• Nuovo pannello autonomo dedicato 'Alimentazione & Salute': accessibile direttamente dall'icona posate in alto a dx nella Home senza passare per le Statistiche\n• Rimossa la scheda nutrizionale dalle Statistiche: focus 100% su carichi, forza, progressione, sovraccarico e streak allenamento\n• Scheda Alimentazione & Salute completa con TopAppBar dedicata, tasto indietro e pulsante rapido per sincronizzare pasti con Google Fit\n• Include analisi corporea (BMR, TDEE, Peso, BMI), bilancio netto giornaliero, scanner AI pietanze e calendario interattivo delle presenze e dei pasti",
   "is_mandatory": false
 }
