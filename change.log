@@ -1,7 +1,7 @@
 {
-  "version_code": 184,
-  "version_name": "2.1.66",
+  "version_code": 185,
+  "version_name": "2.1.67",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Fix varie e ottimizzazioni di stabilità generale\n• Miglioramenti sincronizzazione dati e report",
+  "release_notes": "• Esportazione PDF Multi-Pagina Dinamica: i report di 14, 30 giorni o dello storico completo ora si estendono automaticamente su più pagine A4 con numerazione (Pagina X di Y) e tabelle complete senza tagli\n• Ottimizzazione impaginazione, grafici e medie giornaliere del report",
   "is_mandatory": false
 }
