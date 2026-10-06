@@ -1,7 +1,7 @@
 {
-  "version_code": 177,
-  "version_name": "2.1.59",
+  "version_code": 178,
+  "version_name": "2.1.60",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Dettaglio esercizio completo con tap sia dalla scheda sessione che dallo storico allenamenti di Muscle-Up\n• Heatmap del Recupero posizionata in prima posizione assoluta nelle statistiche Palestra (Gym)\n• Nuova infografica interattiva 'Heatmap del Recupero' aggiunta nelle statistiche Muscle-Up con stima del volume e recupero per Dorso, Tricipiti, Spalle, Addome e Petto\n• Riorganizzazione grafica con navigazione facilitata alle guide degli esercizi",
+  "release_notes": "• Nuovo pannello 'Permessi & Autorizzazioni' nella sezione Configurazione: monitoraggio e verifica in tempo reale di tutte le autorizzazioni di sistema\n• Supporto per richiesta diretta o modifica/apertura impostazioni per Notifiche, Posizione GPS, Allarmi esatti, Backup SAF e Health Connect\n• Indicatore di stato e percentuale autorizzazioni attive con rilevamento dinamico al rientro nell'app",
   "is_mandatory": false
 }
