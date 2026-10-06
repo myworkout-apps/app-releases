@@ -1,7 +1,7 @@
 {
-  "version_code": 182,
-  "version_name": "2.1.64",
+  "version_code": 183,
+  "version_name": "2.1.65",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Risolto bug persistenza cartella Google Drive (work_backup): l'autorizzazione e il nome cartella non si resettano più uscendo e rientrando dalla schermata\n• Firma APK integrata con standard V1, V2 e V3 completi per massimizzare la compatibilità con Google Play Protect su Android 14/15/16\n• Mantenimento stabile di backup, restore e cronologia file remoti senza dover riselezionare la cartella ad ogni accesso",
+  "release_notes": "• Nuovi Grafici Interattivi in Alimentazione & Salute: Trend istogramma bicolore Calorie In vs Calorie Out (7/14/30 giorni) con linea TDEE e tap per visualizzare il delta calorico\n• Donut Chart Macronutrienti %: ripartizione percentuale e grammature medie tra Proteine, Carboidrati e Grassi\n• Esportazione Report PDF: nuovo tasto dedicato per generare e condividere via WhatsApp/Drive un report completo A4 con dati biometrici, tabelle giornaliere e grafici stampati per qualsiasi intervallo temporale",
   "is_mandatory": false
 }
