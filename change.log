@@ -1,7 +1,7 @@
 {
-  "version_code": 186,
-  "version_name": "2.1.68",
+  "version_code": 187,
+  "version_name": "2.1.69",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Esportazione PDF con Intervallo Personalizzato: aggiunto selettore a calendario con selezione intuitiva Data Inizio e Data Fine (Da - A) per estrarre report su qualsiasi periodo a scelta\n• Report multi-pagina dinamico ottimizzato per qualsiasi estensione temporale",
+  "release_notes": "• Grafici & Trend Nutrizione: etichette dei filtri temporali rimpicciolite e compatte (7g, 14g, 30g) per un layout ancora più pulito e minimale\n• Ottimizzazione grafica globale della schermata Alimentazione & Salute",
   "is_mandatory": false
 }
