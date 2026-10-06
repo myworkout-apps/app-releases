@@ -1,7 +1,7 @@
 {
-  "version_code": 178,
-  "version_name": "2.1.60",
+  "version_code": 179,
+  "version_name": "2.1.61",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovo pannello 'Permessi & Autorizzazioni' nella sezione Configurazione: monitoraggio e verifica in tempo reale di tutte le autorizzazioni di sistema\n• Supporto per richiesta diretta o modifica/apertura impostazioni per Notifiche, Posizione GPS, Allarmi esatti, Backup SAF e Health Connect\n• Indicatore di stato e percentuale autorizzazioni attive con rilevamento dinamico al rientro nell'app",
+  "release_notes": "• Nuova sezione 'Cibo & Calorie': calendario presenze e nutrizione interattivo (sostituisce la tab Coach AI)\n• Tap su qualsiasi giorno: calorie ingerite vs bruciate totali, bilancio netto (surplus/deficit) e presenza allenamento\n• Estrazione dettagliata pasti registrati su Google Fit / Health Connect (nome alimento, orario, kcal e macronutrienti P/C/G)\n• Widget bilancio giornaliero istantaneo, calcolo TDEE e backup integrale dati nutrizione",
   "is_mandatory": false
 }
