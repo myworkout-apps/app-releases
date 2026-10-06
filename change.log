@@ -1,7 +1,7 @@
 {
-  "version_code": 183,
-  "version_name": "2.1.65",
+  "version_code": 184,
+  "version_name": "2.1.66",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovi Grafici Interattivi in Alimentazione & Salute: Trend istogramma bicolore Calorie In vs Calorie Out (7/14/30 giorni) con linea TDEE e tap per visualizzare il delta calorico\n• Donut Chart Macronutrienti %: ripartizione percentuale e grammature medie tra Proteine, Carboidrati e Grassi\n• Esportazione Report PDF: nuovo tasto dedicato per generare e condividere via WhatsApp/Drive un report completo A4 con dati biometrici, tabelle giornaliere e grafici stampati per qualsiasi intervallo temporale",
+  "release_notes": "• Fix varie e ottimizzazioni di stabilità generale\n• Miglioramenti sincronizzazione dati e report",
   "is_mandatory": false
 }
