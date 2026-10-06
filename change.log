@@ -1,7 +1,7 @@
 {
-  "version_code": 179,
-  "version_name": "2.1.61",
+  "version_code": 180,
+  "version_name": "2.1.62",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova sezione 'Cibo & Calorie': calendario presenze e nutrizione interattivo (sostituisce la tab Coach AI)\n• Tap su qualsiasi giorno: calorie ingerite vs bruciate totali, bilancio netto (surplus/deficit) e presenza allenamento\n• Estrazione dettagliata pasti registrati su Google Fit / Health Connect (nome alimento, orario, kcal e macronutrienti P/C/G)\n• Widget bilancio giornaliero istantaneo, calcolo TDEE e backup integrale dati nutrizione",
+  "release_notes": "• Ripristinato Coach AI nella Tab 1 del Profilo e raggiungibile dal tasto della BottomBar\n• Aggiunta icona rapida 'Alimentazione & Salute' (posate verdi) nella TopAppBar della schermata principale per accesso istantaneo al diario cibo e calorie\n• Fusa la parte corporea/metabolica con il diario alimentare nella nuova sezione integrata 'Alimentazione & Salute'\n• Sostituito lo scrolling orizzontale delle sottosezioni Statistiche con un elegante menu a tendina selettore",
   "is_mandatory": false
 }
