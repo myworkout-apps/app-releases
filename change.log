@@ -1,7 +1,7 @@
 {
-  "version_code": 181,
-  "version_name": "2.1.63",
+  "version_code": 182,
+  "version_name": "2.1.64",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovo pannello autonomo dedicato 'Alimentazione & Salute': accessibile direttamente dall'icona posate in alto a dx nella Home senza passare per le Statistiche\n• Rimossa la scheda nutrizionale dalle Statistiche: focus 100% su carichi, forza, progressione, sovraccarico e streak allenamento\n• Scheda Alimentazione & Salute completa con TopAppBar dedicata, tasto indietro e pulsante rapido per sincronizzare pasti con Google Fit\n• Include analisi corporea (BMR, TDEE, Peso, BMI), bilancio netto giornaliero, scanner AI pietanze e calendario interattivo delle presenze e dei pasti",
+  "release_notes": "• Risolto bug persistenza cartella Google Drive (work_backup): l'autorizzazione e il nome cartella non si resettano più uscendo e rientrando dalla schermata\n• Firma APK integrata con standard V1, V2 e V3 completi per massimizzare la compatibilità con Google Play Protect su Android 14/15/16\n• Mantenimento stabile di backup, restore e cronologia file remoti senza dover riselezionare la cartella ad ogni accesso",
   "is_mandatory": false
 }
