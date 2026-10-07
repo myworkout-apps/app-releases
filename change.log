@@ -1,7 +1,7 @@
 {
-  "version_code": 191,
-  "version_name": "2.1.73",
+  "version_code": 192,
+  "version_name": "2.1.74",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Home Redesign (Fase 2): Nuova Hero Card Allenamento Consigliato con avvio rapido in 1 tap, durata stimata, volume ed evidenza recupero\n• Focus & Stato Fisico: Card Recupero Muscolare (Readiness Score %) e monitoraggio avanzamento Muscle-Up Journey\n• Card Coach AI Insight: evidenza rapida dei consigli strategici dell'intelligenza artificiale con accesso diretto alla chat\n• Preservate al 100% tutte le funzionalità, cruscotto filtri temporali e sezioni attività",
+  "release_notes": "• Piani & Schede Redesign (Fase 3): Nuovo selettore giorni a linguetta con indicatore animato e contatore esercizi per giorno (Giorno A/B/C)\n• Card Esercizi Ottimizzate: Badge numerico moderno progressivo (1, 2, 3...), serie/reps e carichi visibili all'istante\n• Preservate al 100% tutte le funzioni: ordinamento con frecce, export/import JSON, calcolatore dischi bilanciere, stima 1RM e video tutorial",
   "is_mandatory": false
 }
