@@ -1,7 +1,7 @@
 {
-  "version_code": 195,
-  "version_name": "2.1.77",
+  "version_code": 196,
+  "version_name": "2.1.78",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Bottom Navigation Globale Uniformata: Sezioni 'Piani' e 'Progressi' ora presentano la barra di navigazione coerente identica a quella di Home (Oggi, Piani, Progressi, Profilo)\n• Sezione Profilo / Coach AI / Storico / Config: I 4 tab superiori sono stati trasferiti nella bottom bar con stile grafico premium coerente alla Home\n• Hub Tutte le Tipologie di Allenamento in Piani: 'Piani' è ora l'hub completo delle discipline (Gym & Schede, Outdoor GPS, Programma, Cycling, Swimming, Muscle-Up)\n• Home Screen Pulita: Rimossi temporaneamente icona profilo e menu a tre punti dalla TopAppBar; zero bordi invasivi sulla card Prossimo Allenamento\n• Codice modulare e zero funzioni perse",
+  "release_notes": "• Hub Attività a Sé Stante: Sezione Attività dedicata che mostra le card delle discipline (Gym, Outdoor, Muscle-Up, Cycling, Swimming) modulate rigorosamente dagli interruttori di sistema\n• Tema Grafico Adattivo: Card attività sempre sincronizzate con il tema grafico di sistema (Cyber Blueprint o Modern)\n• Selettore Discipline Dedicate: Navigatore superiore contestuale per accedere alle pagine Gym, Outdoor o tornare all'Hub Attività in base alla configurazione\n• Pulizia Grafica: Rimossa l'icona ingranaggio/configurazione in alto a destra e rimosso qualsiasi riferimento a Programma Allenamenti dall'Hub\n• Zero funzioni perse e architettura conforme (< 1000 righe)",
   "is_mandatory": false
 }
