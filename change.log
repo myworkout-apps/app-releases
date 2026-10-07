@@ -1,7 +1,7 @@
 {
-  "version_code": 198,
-  "version_name": "2.1.80",
+  "version_code": 199,
+  "version_name": "2.1.81",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuove Icone Coerenti: Icona Dashboard/Hub per la sezione 'Attività' (distinta dal manubrio di Gym)\n• Icona Calisthenics: Icona atleta a corpo libero (SportsGymnastics) sia nel selettore tab in alto che nella card 'Muscle-Up'\n• Build OTA v2.1.80 (198)",
+  "release_notes": "• Pulizia Titoli Nutrition Rings: Rimossa la parola 'Anelli' dai titoli delle card 'Bilancio: In, Out & Delta' e 'Obiettivi Giornalieri'\n• Contrasto Score Target: Risolto il colore dello score target al centro degli anelli (onSurface) per una leggibilità ottimale sia su sfondo chiaro che scuro\n• Build OTA v2.1.81 (199)",
   "is_mandatory": false
 }
