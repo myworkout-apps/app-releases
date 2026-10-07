@@ -1,7 +1,7 @@
 {
-  "version_code": 197,
-  "version_name": "2.1.79",
+  "version_code": 198,
+  "version_name": "2.1.80",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Selettore Muscle-Up: Aggiunta opzione Muscle-Up nel selettore in cima alla sezione Attività quando abilitata da configurazione\n• Navigazione Diretta: Accesso immediato al percorso Muscle-Up Journey con stile coordinato alle card\n• Build OTA v2.1.79 (197)",
+  "release_notes": "• Nuove Icone Coerenti: Icona Dashboard/Hub per la sezione 'Attività' (distinta dal manubrio di Gym)\n• Icona Calisthenics: Icona atleta a corpo libero (SportsGymnastics) sia nel selettore tab in alto che nella card 'Muscle-Up'\n• Build OTA v2.1.80 (198)",
   "is_mandatory": false
 }
