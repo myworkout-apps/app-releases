@@ -1,7 +1,7 @@
 {
-  "version_code": 194,
-  "version_name": "2.1.76",
+  "version_code": 195,
+  "version_name": "2.1.77",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Workout Run Live Redesign (Fase 4): Timer di recupero gigante e moderno (52sp) con badge RECUPERO ATTIVO e nuovi stepper touch ampi per Carico (kg) e Ripetizioni stile mockup\n• Profilo & Sezioni Redesign (Fase 5): Scheda biometrica con avatar moderno, metriche corporee, calcolo BMI & range peso ideale + hub accessi rapidi a Coach AI Gemini, Storico e Backup\n• Bottom Bar Allineata al Mockup (Oggi, Piani, Progressi, Profilo) e Hero Card Home senza bordo\n• Architettura modulare (< 1000 righe per file) e zero funzioni perse",
+  "release_notes": "• Bottom Navigation Globale Uniformata: Sezioni 'Piani' e 'Progressi' ora presentano la barra di navigazione coerente identica a quella di Home (Oggi, Piani, Progressi, Profilo)\n• Sezione Profilo / Coach AI / Storico / Config: I 4 tab superiori sono stati trasferiti nella bottom bar con stile grafico premium coerente alla Home\n• Hub Tutte le Tipologie di Allenamento in Piani: 'Piani' è ora l'hub completo delle discipline (Gym & Schede, Outdoor GPS, Programma, Cycling, Swimming, Muscle-Up)\n• Home Screen Pulita: Rimossi temporaneamente icona profilo e menu a tre punti dalla TopAppBar; zero bordi invasivi sulla card Prossimo Allenamento\n• Codice modulare e zero funzioni perse",
   "is_mandatory": false
 }
