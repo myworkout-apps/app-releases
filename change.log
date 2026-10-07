@@ -1,7 +1,7 @@
 {
-  "version_code": 190,
-  "version_name": "2.1.72",
+  "version_code": 191,
+  "version_name": "2.1.73",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovi Anelli Concentrici Apple Health Style in Alimentazione: monitoraggio visivo istantaneo di Calorie In (Cibo), Calorie Out (BMR + Sport) e Delta Netto\n• Anelli Obiettivi Giornalieri (Activity Rings): punteggio globale Score % con Calorie, Proteine e Minuti di Allenamento\n• Mantenuti integralmente tutti i grafici a torta Donut Macro con filtri 7g/14g/30g, sync Google Fit e report PDF multi-pagina",
+  "release_notes": "• Home Redesign (Fase 2): Nuova Hero Card Allenamento Consigliato con avvio rapido in 1 tap, durata stimata, volume ed evidenza recupero\n• Focus & Stato Fisico: Card Recupero Muscolare (Readiness Score %) e monitoraggio avanzamento Muscle-Up Journey\n• Card Coach AI Insight: evidenza rapida dei consigli strategici dell'intelligenza artificiale con accesso diretto alla chat\n• Preservate al 100% tutte le funzionalità, cruscotto filtri temporali e sezioni attività",
   "is_mandatory": false
 }
