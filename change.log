@@ -1,7 +1,7 @@
 {
-  "version_code": 189,
-  "version_name": "2.1.71",
+  "version_code": 190,
+  "version_name": "2.1.72",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Refactoring Architetturale 'Divide et Impera': ottimizzazione interna e modularizzazione completa del codice sorgente (< 1000 righe per file)\n• Massima reattività e stabilità delle schermate di esecuzione workout, schede, statistiche e backup",
+  "release_notes": "• Nuovi Anelli Concentrici Apple Health Style in Alimentazione: monitoraggio visivo istantaneo di Calorie In (Cibo), Calorie Out (BMR + Sport) e Delta Netto\n• Anelli Obiettivi Giornalieri (Activity Rings): punteggio globale Score % con Calorie, Proteine e Minuti di Allenamento\n• Mantenuti integralmente tutti i grafici a torta Donut Macro con filtri 7g/14g/30g, sync Google Fit e report PDF multi-pagina",
   "is_mandatory": false
 }
