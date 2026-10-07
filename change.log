@@ -1,7 +1,7 @@
 {
-  "version_code": 188,
-  "version_name": "2.1.70",
+  "version_code": 189,
+  "version_name": "2.1.71",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Esportazione PDF Multi-Pagina Completa: garanzia di inclusione integrale di tutti i giorni selezionati con paginazione A4 automatica e ordinamento temporale sicuro\n• Dialogo Export PDF: layout rivisto con tasto 'Modifica date' posizionato direttamente sotto l'intervallo delle date per una lettura chiara e immediata",
+  "release_notes": "• Refactoring Architetturale 'Divide et Impera': ottimizzazione interna e modularizzazione completa del codice sorgente (< 1000 righe per file)\n• Massima reattività e stabilità delle schermate di esecuzione workout, schede, statistiche e backup",
   "is_mandatory": false
 }
