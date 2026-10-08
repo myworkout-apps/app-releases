@@ -1,7 +1,7 @@
 {
-  "version_code": 201,
-  "version_name": "2.1.83",
+  "version_code": 202,
+  "version_name": "2.1.84",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Report PDF Nutrizione: Aggiunto Diario Dettagliato Pasti & Alimenti giorno per giorno alla fine del PDF con cibi consumati, orari, tipologia di pasto, calorie e macronutrienti\n• Build OTA v2.1.83 (201)",
+  "release_notes": "• Report PDF Nutrizionista: Etichetta 'Nominativo' con obiettivo atleta, parametri clinici g/kg peso corporeo, ripartizione % calorie macronutrienti, confronto analitico Giorni ON (Workout) vs Giorni OFF (Riposo), colonna Acqua (L) e box per Note e Firma del Nutrizionista\n• Build OTA v2.1.84 (202)",
   "is_mandatory": false
 }
