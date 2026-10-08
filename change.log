@@ -1,7 +1,7 @@
 {
-  "version_code": 202,
-  "version_name": "2.1.84",
+  "version_code": 203,
+  "version_name": "2.1.85",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Report PDF Nutrizionista: Etichetta 'Nominativo' con obiettivo atleta, parametri clinici g/kg peso corporeo, ripartizione % calorie macronutrienti, confronto analitico Giorni ON (Workout) vs Giorni OFF (Riposo), colonna Acqua (L) e box per Note e Firma del Nutrizionista\n• Build OTA v2.1.84 (202)",
+  "release_notes": "• Report PDF Nutrizione: rimosso/nascosto box Note Cliniche/Firma, aumentata la spaziatura verticale tra le sezioni/card di pagina 1, garantita la presenza del Diario Alimentare completo per tutti i giorni del periodo\n• Build OTA v2.1.85 (203)",
   "is_mandatory": false
 }
