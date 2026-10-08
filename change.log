@@ -1,7 +1,7 @@
 {
-  "version_code": 200,
-  "version_name": "2.1.82",
+  "version_code": 201,
+  "version_name": "2.1.83",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Accesso Rapido Alimentazione & Salute: Aggiunta icona della forchetta (Restaurant) in alto a destra anche nelle sezioni 'Piani' e 'Progressi', coordinata con 'Oggi'\n• Build OTA v2.1.82 (200)",
+  "release_notes": "• Report PDF Nutrizione: Aggiunto Diario Dettagliato Pasti & Alimenti giorno per giorno alla fine del PDF con cibi consumati, orari, tipologia di pasto, calorie e macronutrienti\n• Build OTA v2.1.83 (201)",
   "is_mandatory": false
 }
