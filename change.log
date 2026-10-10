@@ -1,7 +1,7 @@
 {
-  "version_code": 204,
-  "version_name": "2.1.86",
+  "version_code": 205,
+  "version_name": "2.1.87",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova funzione 'Crea Richiami' nelle schede: genera automaticamente un nuovo giorno con 1 esercizio per gruppo muscolare (4 serie: 8, 10, 12, cedimento) e 5' di ellittica cardio\n• Menu opzioni scheda con tre puntini sia nella lista schede che nel dettaglio scheda (Crea Richiami ed Esporta JSON)\n• Build OTA v2.1.86 (204)",
+  "release_notes": "• Gestione completa del singolo giorno nella scheda: pulsanti dedicati e menu contestuale a 3 puntini sul giorno attivo per rinominare ed eliminare con dialogo di conferma di sicurezza\n• Build OTA v2.1.87 (205)",
   "is_mandatory": false
 }
