@@ -1,7 +1,7 @@
 {
-  "version_code": 203,
-  "version_name": "2.1.85",
+  "version_code": 204,
+  "version_name": "2.1.86",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Report PDF Nutrizione: rimosso/nascosto box Note Cliniche/Firma, aumentata la spaziatura verticale tra le sezioni/card di pagina 1, garantita la presenza del Diario Alimentare completo per tutti i giorni del periodo\n• Build OTA v2.1.85 (203)",
+  "release_notes": "• Nuova funzione 'Crea Richiami' nelle schede: genera automaticamente un nuovo giorno con 1 esercizio per gruppo muscolare (4 serie: 8, 10, 12, cedimento) e 5' di ellittica cardio\n• Menu opzioni scheda con tre puntini sia nella lista schede che nel dettaglio scheda (Crea Richiami ed Esporta JSON)\n• Build OTA v2.1.86 (204)",
   "is_mandatory": false
 }
