@@ -1,7 +1,7 @@
 {
-  "version_code": 208,
-  "version_name": "2.1.90",
+  "version_code": 209,
+  "version_name": "2.1.91",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Redesign completo Report PDF A4: layout anti-sovrapposizione con colonne calcolate, troncamento intelligente dei testi lunghi e date alternate sui grafici per la massima leggibilità\n• Sezione dedicata per neofiti con guida e spiegazione dei termini chiave (Tonnellaggio e 1RM Massimale)\n• Build OTA v2.1.90 (208)",
+  "release_notes": "• Allineamento data di compilazione e rilascio (BUILD_DATE: 20/10/2026 22:20)\n• Redesign completo Report PDF A4: layout anti-sovrapposizione, troncamento testi lunghi e guida didattica per neofiti\n• Build OTA v2.1.91 (209)",
   "is_mandatory": false
 }
