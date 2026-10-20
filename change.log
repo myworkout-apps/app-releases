@@ -1,7 +1,7 @@
 {
-  "version_code": 205,
-  "version_name": "2.1.87",
+  "version_code": 206,
+  "version_name": "2.1.88",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Gestione completa del singolo giorno nella scheda: pulsanti dedicati e menu contestuale a 3 puntini sul giorno attivo per rinominare ed eliminare con dialogo di conferma di sicurezza\n• Build OTA v2.1.87 (205)",
+  "release_notes": "• Nuova funzione di Reportistica Avanzata ed Evoluzione Allenamento: esportazione PDF A4 multi-pagina con grafici di volume, progressione carichi e 1RM stimato, bilanciamento gruppi muscolari e cronologia sessioni\n• Nuovo pulsante PDF dedicato nella sezione Statistiche & Analytics con selettore intervallo personalizzato\n• Build OTA v2.1.88 (206)",
   "is_mandatory": false
 }
