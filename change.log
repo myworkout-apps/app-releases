@@ -1,7 +1,7 @@
 {
-  "version_code": 211,
-  "version_name": "2.1.93",
+  "version_code": 212,
+  "version_name": "2.1.94",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Allineamento completo Schermata In-App con il Report PDF:\n  - Nuovo istogramma interattivo del volume tonnellaggio delle sessioni direttamente a video\n  - Micro-grafici Sparkline animati su ciascuna card esercizio per mostrare l'inclinazione e la crescita dei carichi\n  - Raggruppamento e suddivisione del registro cronologico sessioni per Scheda di lavoro con header dedicato\n  - Box didattico spiegazione Tonnellaggio e 1RM Massimale per neofiti\n• Build OTA v2.1.93 (211)",
+  "release_notes": "• Evoluzione Reportistica Completa (In-App & PDF):\n  - Supporto a Intervalli di Date Personalizzati sia nella Schermata Monitor In-App che nell'esportazione PDF A4\n  - Confronto automatico con il Periodo Precedente Equivalente (delta Tonnellaggio %, Sessioni, Serie)\n  - Micro-grafici Sparkline vettoriali su ogni esercizio sia in-app che nel PDF\n  - Raggruppamento per Scheda di appartenenza e sezione sia a monitor che nel report stampabile\n  - Guida didattica per neofiti con spiegazione chiara di Tonnellaggio e 1RM\n  - Audit di sicurezza backup/restore su 19 tabelle Room completato con successo\n• Build OTA v2.1.94 (212) - Rilascio del 20/10/2026 23:00",
   "is_mandatory": false
 }
