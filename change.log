@@ -1,7 +1,7 @@
 {
-  "version_code": 213,
-  "version_name": "2.1.95",
+  "version_code": 214,
+  "version_name": "2.1.96",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Rivoluzione Visualizzazione Storico Allenamenti:\n  - Nuova vista Calendario Mensile Interattiva (toggle Lista / Calendario con giorni evidenziati e dettaglio rapido)\n  - Barra di ricerca istantanea nello storico per scheda, esercizio, data o note\n  - Filtri rapidi per Scheda di appartenenza e Intervallo di Date personalizzato con DatePicker\n  - Card Sessione Evoluta con micro-metriche a vista: Tonnellaggio totale (kg), Durata, Serie completate, RPE medio e Calorie\n  - Badge dorato Record Personale (PR 🏆) sulle sessioni in cui hai superato il tuo massimale storico\n  - Dettaglio espandibile ad accordion per consultare tutti gli esercizi, serie e carichi con un solo tocco\n  - Raggruppamento temporale intelligente delle sessioni (Questa Settimana, Settimana Scorsa, Mese/Anno)\n• Build OTA v2.1.95 (213) - Rilascio del 20/10/2026 23:15",
+  "release_notes": "• Layout Ottimizzato Schermata Storico:\n  - Barra di ricerca estesa a tutta larghezza su riga dedicata per la massima comodità di digitazione\n  - Seconda riga con selettore visualizzazione a 3 modalità: 'Lista' (compatta), 'Dettagli' (espande automaticamente tutti gli esercizi e le serie sollevate) e 'Calendario' interattivo\n  - Filtri per intervallo date e scheda di appartenenza affiancati nella riga filtri\n• Build OTA v2.1.96 (214) - Rilascio del 20/10/2026 23:25",
   "is_mandatory": false
 }
