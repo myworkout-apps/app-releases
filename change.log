@@ -1,7 +1,7 @@
 {
-  "version_code": 206,
-  "version_name": "2.1.88",
+  "version_code": 207,
+  "version_name": "2.1.89",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova funzione di Reportistica Avanzata ed Evoluzione Allenamento: esportazione PDF A4 multi-pagina con grafici di volume, progressione carichi e 1RM stimato, bilanciamento gruppi muscolari e cronologia sessioni\n• Nuovo pulsante PDF dedicato nella sezione Statistiche & Analytics con selettore intervallo personalizzato\n• Build OTA v2.1.88 (206)",
+  "release_notes": "• Nuova vista In-App dedicata 'Evoluzione & Report' tra le statistiche Gym: dashboard KPI interattiva (Tonnellaggio, Allenamenti, Serie, Aderenza), selettore rapido periodo (30g, 3m, 6m, Anno, Tutto), barre di distribuzione stimolo muscolare e schede di progressione carichi/1RM\n• Pulsante rapido integrato per esportazione immediata in PDF A4 multi-pagina con grafici vettoriali stampati\n• Build OTA v2.1.89 (207)",
   "is_mandatory": false
 }
