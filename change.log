@@ -1,7 +1,7 @@
 {
-  "version_code": 212,
-  "version_name": "2.1.94",
+  "version_code": 213,
+  "version_name": "2.1.95",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Evoluzione Reportistica Completa (In-App & PDF):\n  - Supporto a Intervalli di Date Personalizzati sia nella Schermata Monitor In-App che nell'esportazione PDF A4\n  - Confronto automatico con il Periodo Precedente Equivalente (delta Tonnellaggio %, Sessioni, Serie)\n  - Micro-grafici Sparkline vettoriali su ogni esercizio sia in-app che nel PDF\n  - Raggruppamento per Scheda di appartenenza e sezione sia a monitor che nel report stampabile\n  - Guida didattica per neofiti con spiegazione chiara di Tonnellaggio e 1RM\n  - Audit di sicurezza backup/restore su 19 tabelle Room completato con successo\n• Build OTA v2.1.94 (212) - Rilascio del 20/10/2026 23:00",
+  "release_notes": "• Rivoluzione Visualizzazione Storico Allenamenti:\n  - Nuova vista Calendario Mensile Interattiva (toggle Lista / Calendario con giorni evidenziati e dettaglio rapido)\n  - Barra di ricerca istantanea nello storico per scheda, esercizio, data o note\n  - Filtri rapidi per Scheda di appartenenza e Intervallo di Date personalizzato con DatePicker\n  - Card Sessione Evoluta con micro-metriche a vista: Tonnellaggio totale (kg), Durata, Serie completate, RPE medio e Calorie\n  - Badge dorato Record Personale (PR 🏆) sulle sessioni in cui hai superato il tuo massimale storico\n  - Dettaglio espandibile ad accordion per consultare tutti gli esercizi, serie e carichi con un solo tocco\n  - Raggruppamento temporale intelligente delle sessioni (Questa Settimana, Settimana Scorsa, Mese/Anno)\n• Build OTA v2.1.95 (213) - Rilascio del 20/10/2026 23:15",
   "is_mandatory": false
 }
