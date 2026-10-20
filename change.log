@@ -1,7 +1,7 @@
 {
-  "version_code": 209,
-  "version_name": "2.1.91",
+  "version_code": 210,
+  "version_name": "2.1.92",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Allineamento data di compilazione e rilascio (BUILD_DATE: 20/10/2026 22:20)\n• Redesign completo Report PDF A4: layout anti-sovrapposizione, troncamento testi lunghi e guida didattica per neofiti\n• Build OTA v2.1.91 (209)",
+  "release_notes": "• Micro-grafici vettoriali di crescita (Sparklines) per ciascun esercizio nella tabella di progressione carichi del Report PDF\n• Suddivisione strutturata del Registro Sessioni per Scheda di Appartenenza con header dedicato (conteggio allenamenti per scheda, split/giorno, durata e miglior alzata)\n• Data di rilascio aggiornata (BUILD_DATE: 20/10/2026 22:35)\n• Build OTA v2.1.92 (210)",
   "is_mandatory": false
 }
