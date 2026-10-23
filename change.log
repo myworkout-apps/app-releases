@@ -1,7 +1,7 @@
 {
-  "version_code": 214,
-  "version_name": "2.1.96",
+  "version_code": 215,
+  "version_name": "2.1.97",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Layout Ottimizzato Schermata Storico:\n  - Barra di ricerca estesa a tutta larghezza su riga dedicata per la massima comodità di digitazione\n  - Seconda riga con selettore visualizzazione a 3 modalità: 'Lista' (compatta), 'Dettagli' (espande automaticamente tutti gli esercizi e le serie sollevate) e 'Calendario' interattivo\n  - Filtri per intervallo date e scheda di appartenenza affiancati nella riga filtri\n• Build OTA v2.1.96 (214) - Rilascio del 20/10/2026 23:25",
+  "release_notes": "• Nuovo Modulo 'Assistente Conteggio Live' durante l'Esecuzione Esercizi:\n  - Barra 'Stato Serie' visiva con caselle animate ('Dove sono arrivato?': serie completate verdi con kg×reps, serie in corso pulsante e serie rimanenti)\n  - Modalità 1 '🔊 Voce & Ritmo' (Hands-Free): countdown vocale di 3s per impugnare i pesi e conteggio vocale automatico ad alta voce (TTS) con 3 velocità/cadenze TUT (Veloce 2s, Ipertrofia 3.2s, Lento 5s)\n  - Modalità 2 '👆 Giant Tap Pad': area di tocco gigante a tutto schermo per contare le ripetizioni anche senza guardare, con vibrazione aptica e avviso vocale al raggiungimento del target\n  - Modalità 3 '⏱️ Isometrico': cronometro dedicato per tenute (Plank, Wall Sit) con avviso vocale a metà tempo e conto alla rovescia finale\n  - Sincronizzazione istantanea con la casella Ripetizioni e pulsante 'Stop & Salva' per registrare la serie e far partire il recupero con un tap\n• Build OTA v2.1.97 (215) - Rilascio del 23/10/2026 19:36",
   "is_mandatory": false
 }
