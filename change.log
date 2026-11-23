@@ -1,7 +1,7 @@
 {
-  "version_code": 218,
-  "version_name": "2.2.0",
+  "version_code": 219,
+  "version_name": "2.2.1",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuovo 'Centro Salute & Manutenzione Dati' (in Configurazione > Memoria e Spazio Disco):\n  - Diagnostica Integrità Database 1-Tap: conteggi totali e rilevamento automatico di log serie orfani, sessioni vuote, possibili duplicati e immagini orfane su disco\n  - Pulizia Sicura Guidata con conferma esplicita: rimozione log orfani, eliminazione file immagine inutilizzati e ricalcolo completo dei Record Personali (PR) dallo storico reale\n  - Unifica Nomi Esercizi: strumento per fondere nomi duplicati o varianti dello stesso esercizio e riallineare grafici 1RM e statistiche (100% compatibile con i vecchi backup)\n  - Promemoria Salute Backup: controllo automatico dei giorni trascorsi dall'ultimo salvataggio\n• Build OTA v2.2.0 (218) - Rilascio del 23/11/2026 21:55",
+  "release_notes": "• Nuova Sezione Monitoraggio Andamento 'Stato Forma & Trend' (in Statistiche > Gym):\n  - Semaforo Stato Forma (Momentum): confronta gli ultimi 7 giorni con la media delle ultime 4 settimane su Volume (tonnellaggio), Frequenza e RPE medio (🟢 In Crescita / 🟡 Mantenimento / 🔴 Attenzione)\n  - Rilevatore Automatico di Stalli (Plateau Detector): individua gli esercizi fermi allo stesso carico/1RM da 3+ sessioni con suggerimento pratico per sbloccarli, oltre all'elenco degli esercizi in crescita\n  - Bilancio Muscolare (Push / Pull / Gambe): barra grafica e analisi percentuale degli equilibri tra Spinta, Tirata e Parte Inferiore negli ultimi 30 giorni\n• Build OTA v2.2.1 (219) - Rilascio del 23/11/2026 22:08",
   "is_mandatory": false
 }
