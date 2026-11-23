@@ -1,7 +1,7 @@
 {
-  "version_code": 217,
-  "version_name": "2.1.99",
+  "version_code": 218,
+  "version_name": "2.2.0",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova Barra 'Wizard Esercizi' durante l'Allenamento:\n  - Barra orizzontale segmentata in mini-barre (una per ogni esercizio della seduta)\n  - Riempimento progressivo animato proporzionale alle serie completate per ciascun esercizio\n  - Indicatori visivi immediati: Verde (completato), Blu evidenziato (esercizio in corso), Ambra (iniziato/sospeso)\n  - Anteprima costante del prossimo esercizio e menu espandibile 'Vedi tutti' per saltare subito a qualsiasi esercizio\n• Build OTA v2.1.99 (217) - Rilascio del 23/11/2026 21:38",
+  "release_notes": "• Nuovo 'Centro Salute & Manutenzione Dati' (in Configurazione > Memoria e Spazio Disco):\n  - Diagnostica Integrità Database 1-Tap: conteggi totali e rilevamento automatico di log serie orfani, sessioni vuote, possibili duplicati e immagini orfane su disco\n  - Pulizia Sicura Guidata con conferma esplicita: rimozione log orfani, eliminazione file immagine inutilizzati e ricalcolo completo dei Record Personali (PR) dallo storico reale\n  - Unifica Nomi Esercizi: strumento per fondere nomi duplicati o varianti dello stesso esercizio e riallineare grafici 1RM e statistiche (100% compatibile con i vecchi backup)\n  - Promemoria Salute Backup: controllo automatico dei giorni trascorsi dall'ultimo salvataggio\n• Build OTA v2.2.0 (218) - Rilascio del 23/11/2026 21:55",
   "is_mandatory": false
 }
