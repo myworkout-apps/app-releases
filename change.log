@@ -1,7 +1,7 @@
 {
-  "version_code": 216,
-  "version_name": "2.1.98",
+  "version_code": 217,
+  "version_name": "2.1.99",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Sicurezza & Crittografia Chiavi API (AES-256-GCM):\n  - Crittografia automatica AES-256-GCM (ENC_V1:...) per il salvataggio delle chiavi API Gemini in AppPreferences e nell'esportazione/ripristino dei file di backup JSON\n  - Auto-migrazione trasparente delle chiavi esistenti al formato crittografato\n  - Rimozione totale di qualsiasi chiave API in chiaro dagli script Python di utilità in documenti/\n• Build OTA v2.1.98 (216) - Rilascio del 26/10/2026 18:58",
+  "release_notes": "• Nuova Barra 'Wizard Esercizi' durante l'Allenamento:\n  - Barra orizzontale segmentata in mini-barre (una per ogni esercizio della seduta)\n  - Riempimento progressivo animato proporzionale alle serie completate per ciascun esercizio\n  - Indicatori visivi immediati: Verde (completato), Blu evidenziato (esercizio in corso), Ambra (iniziato/sospeso)\n  - Anteprima costante del prossimo esercizio e menu espandibile 'Vedi tutti' per saltare subito a qualsiasi esercizio\n• Build OTA v2.1.99 (217) - Rilascio del 23/11/2026 21:38",
   "is_mandatory": false
 }
