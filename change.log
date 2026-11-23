@@ -1,7 +1,7 @@
 {
-  "version_code": 219,
-  "version_name": "2.2.1",
+  "version_code": 220,
+  "version_name": "2.2.2",
   "download_url": "https://raw.githubusercontent.com/myworkout-apps/app-releases/main/my-workout.apk",
-  "release_notes": "• Nuova Sezione Monitoraggio Andamento 'Stato Forma & Trend' (in Statistiche > Gym):\n  - Semaforo Stato Forma (Momentum): confronta gli ultimi 7 giorni con la media delle ultime 4 settimane su Volume (tonnellaggio), Frequenza e RPE medio (🟢 In Crescita / 🟡 Mantenimento / 🔴 Attenzione)\n  - Rilevatore Automatico di Stalli (Plateau Detector): individua gli esercizi fermi allo stesso carico/1RM da 3+ sessioni con suggerimento pratico per sbloccarli, oltre all'elenco degli esercizi in crescita\n  - Bilancio Muscolare (Push / Pull / Gambe): barra grafica e analisi percentuale degli equilibri tra Spinta, Tirata e Parte Inferiore negli ultimi 30 giorni\n• Build OTA v2.2.1 (219) - Rilascio del 23/11/2026 22:08",
+  "release_notes": "• Nuovo Modulo 'Alert & Promemoria Integratori' (in Profilo > Configurazione):\n  - Gestione completa integratori con Preset Rapidi 1-Tap (Creatina, Whey, Omega-3, Multivitaminico, Magnesio, Vitamina D3, Pre-Workout, BCAA/EAA), dosaggio, orario, giorni della settimana e note\n  - Notifiche puntuali Anti-Doze (AlarmManager) attive anche ad app completamente chiusa e ripristinate in automatico al riavvio del dispositivo\n  - Azioni rapide direttamente dalla notifica ('✓ Preso' e '⏰ Rimanda 15 min') sincronizzate con la checklist giornaliera 'Integratori di Oggi'\n  - Esportazione e ripristino opzionale nei backup ZIP (100% compatibile con i vecchi backup)\n• Build OTA v2.2.2 (220) - Rilascio del 23/11/2026 22:20",
   "is_mandatory": false
 }
